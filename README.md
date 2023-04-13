@@ -37,21 +37,14 @@ Başarımlar oyunun görselleri içerisindedir ve bu yüzden ikincisi indirilmez
 
 yama hazır
 
+# Nasıl tam ekran yapılır?
+başlangıç ekranında f1 e basın
 
+Graphics'e basın
 
+Start in Fullscreen yazan kutuya basılı tutun
 
-
-
-
-
-
-
-
-
-
-
-
-
+Oyunu kapatıp açın
 
 
 
