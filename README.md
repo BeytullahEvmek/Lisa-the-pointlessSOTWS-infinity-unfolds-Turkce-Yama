@@ -18,7 +18,7 @@ grafiklerinde düzenlemeler yaparak onları da 7 saat içinde düzelttim.(bu kad
 # neden iki tane var?
 Birisi isterseniz oyundaki kelimeleri türkçe yaparken
 
-Ikincisi oyunun görsellerini de değiştirerektir.ikincisinin içerisinde hem yama hem grafik düzenlemeleri vardır. 
+Ikincisi oyunun görsellerini de değiştirerektir.
 
 Başarımlar oyunun görselleri içerisindedir ve bu yüzden ikincisi indirilmezse başarımlar ingilizce görülecektir.
 # Nasıl yüklenir?
