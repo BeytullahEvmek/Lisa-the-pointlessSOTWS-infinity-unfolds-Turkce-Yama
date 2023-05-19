@@ -46,8 +46,15 @@ Start in Fullscreen yazan kutuya basılı tutun
 
 Oyunu kapatıp açın
 
+# Ekran Gamması
+malesef ki oyunda en upak bir değişiklik bile yapıldığında RPGMaker oyunlarındaki plug-in ler bozulabiliyor.
+Bazı kişiler oyun mağaradan girip çıktıktan sonra baya karanlık olduğunu söylüyor.
+https://github.com/BeytullahEvmek/Lisa-the-pointlessSOTWS-infinity-unfolds-turkce-patch/assets/130393344/377100f6-6301-49fd-b55f-bb0ca53d7563
+Oyunda bazı gizli mağaraların girişleri bu yüzden görünemez halde,bu nedenle gammayı değiştirmenizi öneririz.
+Monitör kullanıcıları gammayı zaten istediği şekilde monitör butonlarıyla değiştirebilmektedir
 
-
+Win7/Win10 Gamma değiştirme:
+arama çubuğuna "dccw" yazın ve orda bulunan ayarlarla sizin gözünüze rahat gelen ayarı yapın
 
 # orijinal haklar
 LISA: The Painful Dingaling trafından yapılmıştır.                               https://store.steampowered.com/app/335670/LISA_The_Painful/
