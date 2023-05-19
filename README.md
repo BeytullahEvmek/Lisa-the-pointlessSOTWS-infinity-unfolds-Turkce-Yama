@@ -49,7 +49,9 @@ Oyunu kapatıp açın
 # Ekran Gamması
 malesef ki oyunda en upak bir değişiklik bile yapıldığında RPGMaker oyunlarındaki plug-in ler bozulabiliyor.
 Bazı kişiler oyun mağaradan girip çıktıktan sonra baya karanlık olduğunu söylüyor.
+
 https://github.com/BeytullahEvmek/Lisa-the-pointlessSOTWS-infinity-unfolds-turkce-patch/assets/130393344/377100f6-6301-49fd-b55f-bb0ca53d7563
+
 Oyunda bazı gizli mağaraların girişleri bu yüzden görünemez halde,bu nedenle gammayı değiştirmenizi öneririz.
 Monitör kullanıcıları gammayı zaten istediği şekilde monitör butonlarıyla değiştirebilmektedir
 
