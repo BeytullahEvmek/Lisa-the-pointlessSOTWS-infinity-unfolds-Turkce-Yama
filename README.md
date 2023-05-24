@@ -3,7 +3,7 @@
 
 
 Bu patch Lisa the Pointless'in şu anlık en kapsamlı moduna yapılmıştır.
-LISA: The Pointless SOTWS Infinity Unfolds
+LISA: The Pointless SOTWS Infinity Unfolds: https://gamejolt.com/games/wilbursin/564404
 
 Normal oyunun"LISA: The Painful" Hayran oyununa ek olarak hayranlar extra kapsamlı bir mod çıkarıp o moda düzeltmeler ve başarımlar eklenmiş halidir.
 
@@ -22,6 +22,11 @@ Ikincisi oyunun görsellerini de değiştirerektir.
 
 Başarımlar oyunun görselleri içerisindedir ve bu yüzden ikincisi indirilmezse başarımlar ingilizce görülecektir.
 # Nasıl yüklenir?
+YAMAYI INDIRME
+![Screenshot 2023-05-25 001608](https://github.com/BeytullahEvmek/Lisa-the-pointlessSOTWS-infinity-unfolds-turkce-patch/assets/130393344/a778f722-aaef-45cd-b234-3c6373d81e66)
+![Screenshot 2023-05-25 001816](https://github.com/BeytullahEvmek/Lisa-the-pointlessSOTWS-infinity-unfolds-turkce-patch/assets/130393344/ceecd917-846a-42ee-af08-690508e4f8c2)
+
+
 
 1)Oyunu orijinal gamejolt sitesinden indirin https://gamejolt.com/games/wilbursin/564404
 
