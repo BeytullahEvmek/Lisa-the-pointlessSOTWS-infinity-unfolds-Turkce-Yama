@@ -15,7 +15,7 @@ Eğer görsellerde ingilizce yazı görmek istemiyorsanız ve başarımların t�
 
 grafiklerinde düzenlemeler yaparak onları da 7 saat içinde düzelttim.(bu kadar uzun sürmesinin sebebi pixel grafiklerde yazılar zar zor editleniyor)
 
-# neden iki tane var?
+# Neden iki tane var?
 Birisi isterseniz oyundaki kelimeleri türkçe yaparken
 
 Ikincisi oyunun görsellerini de değiştirerektir.Ikincisinin içinde yama yoktur.yamayı indirirmiş gibi kurulabilir.
@@ -25,7 +25,6 @@ Başarımlar oyunun görselleri içerisindedir ve bu yüzden ikincisi indirilmez
 YAMAYI INDIRME
 ![Screenshot 2023-05-25 001608](https://github.com/BeytullahEvmek/Lisa-the-pointlessSOTWS-infinity-unfolds-turkce-patch/assets/130393344/a778f722-aaef-45cd-b234-3c6373d81e66)
 ![Screenshot 2023-05-25 001816](https://github.com/BeytullahEvmek/Lisa-the-pointlessSOTWS-infinity-unfolds-turkce-patch/assets/130393344/ceecd917-846a-42ee-af08-690508e4f8c2)
-
 
 
 1)Oyunu orijinal gamejolt sitesinden indirin https://gamejolt.com/games/wilbursin/564404
@@ -41,6 +40,12 @@ YAMAYI INDIRME
 5)Çıkan uyarıda çakışan dosyaların hepsini değiştirin
 
 yama hazır
+
+DIPNOT:Oyun açılmazsa RPGMaker Plugin'i bilgisayarınızda yüklü değil demektir.Siteden indirebilirhttps://www.rpgmakerweb.com/downloads
+
+Ya da bu linkden hemen indirebilirsiniz:https://dl.komodo.jp/rpgmakerweb/run-time-packages/RPGVXAce_RTP.zip
+
+Oyunu hızlandırmak için Cheat Engine kullanabilirsiniz. https://www.cheatengine.org/
 
 # Nasıl tam ekran yapılır?
 başlangıç ekranında f1 e basın
