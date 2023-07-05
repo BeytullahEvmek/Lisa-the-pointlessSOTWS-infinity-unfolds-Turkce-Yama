@@ -27,7 +27,7 @@ YAMAYI INDIRME
 ![Screenshot 2023-05-25 001816](https://github.com/BeytullahEvmek/Lisa-the-pointlessSOTWS-infinity-unfolds-turkce-patch/assets/130393344/ceecd917-846a-42ee-af08-690508e4f8c2)
 
 
-1)Oyunu orijinal gamejolt sitesinden indirin https://gamejolt.com/games/wilbursin/564404
+1)Oyunu orijinal gamejolt sitesinden [indirin](https://gamejolt.com/games/InfinityUnfolds/754441)
 
 2)Oyunun yamasını indirin
 
